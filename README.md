@@ -1,5 +1,5 @@
 # UMSI-DS-blog
 
-A quick read on some of the papers I had a chance to write on social good, qualitative research and data science manifesto during my studies at UMSI program. 
+A quick read on some of the papers I have written on social good, qualitative research and my data science manifesto.   
 
-I will deeply appreciate your comments, critiques and personally looking forward to receiving it at psanghalATumichDOTedu
+Please feel free to share your comments at psanghalATumichDOTedu
